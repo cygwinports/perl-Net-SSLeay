@@ -1,0 +1,5 @@
+NAME="perl-Net-SSLeay"
+VERSION=1.49
+RELEASE=1
+CPAN_AUTHOR=mikem
+inherit perl
