@@ -1,5 +1,14 @@
-NAME="perl-Net-SSLeay"
-VERSION=1.49
-RELEASE=1
 CPAN_AUTHOR=mikem
 inherit perl
+
+NAME="perl-Net-SSLeay"
+VERSION=1.51
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl OpenSSL extension"
+DESCRIPTION="Net::SSLeay module contains perl bindings to the OpenSSL library.
+Net::SSLeay module basically comprise of: high level functions for accessing
+web servers (by using HTTP/HTTPS); Low level API (mostly mapped 1:1 to OpenSSL
+C functions), and convenience functions (related to low level API but with more
+Perl-ish interface)."
+
