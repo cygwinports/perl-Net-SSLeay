@@ -2,7 +2,7 @@ CPAN_AUTHOR=mikem
 inherit perl
 
 NAME="perl-Net-SSLeay"
-VERSION=1.51
+VERSION=1.54
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl OpenSSL extension"
